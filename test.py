@@ -1,5 +1,0 @@
-import pandas as pd
-
-df = pd.read_csv("compas-scores-two-years.csv")
-
-print(df.columns.tolist())
